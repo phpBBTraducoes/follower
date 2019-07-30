@@ -1,0 +1,13 @@
+Subject: Nova resposta ao seu comentário
+
+Oi,
+
+"{AUTHOR_NAME}" respondeu a um comentário seu em "{SITENAME}".
+
+Para ver a resposta, use este link:
+{U_ITEM_LINK}
+
+Para deixar de receber esses tipos de notificações, use este link:
+{U_UNSUBSCRIBE}
+
+{EMAIL_SIG}

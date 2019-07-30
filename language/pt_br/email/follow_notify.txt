@@ -1,0 +1,13 @@
+Subject: Novo seguidor
+
+Oi,
+
+{FOLLOWER_NAME} começou a segui-lo em "{SITENAME}".
+
+Para ver o perfil do usuário, use este link:
+{U_ITEM_LINK}
+
+Para deixar de receber esses tipos de notificações, use este link:
+{U_UNSUBSCRIBE}
+
+{EMAIL_SIG}

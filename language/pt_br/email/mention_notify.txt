@@ -1,0 +1,13 @@
+Subject: Você foi mencionado
+
+Oi,
+
+Você foi mencionado por "{AUTHOR_NAME}" em "{SITENAME}".
+
+Para ver a mensagem em que você foi mencionado, use este link:
+{U_ITEM_LINK}
+
+Para deixar de receber esses tipos de notificações, use este link:
+{U_UNSUBSCRIBE}
+
+{EMAIL_SIG}

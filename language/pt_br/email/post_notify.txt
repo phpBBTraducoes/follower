@@ -1,0 +1,13 @@
+Subject: Nova mensagem de {AUTHOR_NAME}
+
+Oi,
+
+"{AUTHOR_NAME}" postou uma nova mensagem em "{SITENAME}".
+
+Para ver a mensagem, use este link:
+{U_ITEM_LINK}
+
+Para deixar de receber esses tipos de notificações, use este link:
+{U_UNSUBSCRIBE}
+
+{EMAIL_SIG}

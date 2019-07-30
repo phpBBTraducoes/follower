@@ -1,0 +1,13 @@
+Subject: Novo tópico de {AUTHOR_NAME}
+
+Oi,
+
+"{AUTHOR_NAME}" postou um novo tópico em "{SITENAME}".
+
+Para ver o tópico criado, use este link:
+{U_ITEM_LINK}
+
+Para deixar de receber esses tipos de notificações, use este link:
+{U_UNSUBSCRIBE}
+
+{EMAIL_SIG}

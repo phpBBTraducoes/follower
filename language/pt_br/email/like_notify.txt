@@ -1,0 +1,13 @@
+Subject: Você recebeu um novo curtir
+
+Oi,
+
+"{AUTHOR_NAME}" indicou que ele curtiu uma mensagem sua em "{SITENAME}".
+
+Para ver a mensagem, use este link:
+{U_ITEM_LINK}
+
+Para deixar de receber esses tipos de notificações, use este link:
+{U_UNSUBSCRIBE}
+
+{EMAIL_SIG}
