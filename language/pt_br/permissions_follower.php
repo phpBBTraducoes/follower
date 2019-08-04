@@ -26,7 +26,7 @@ $lang = array_merge($lang, array(
 	'ACL_U_FWR_INTERACTION'		=> 'Pode compartilhar e avaliar comentários e mensagens',
 	'ACL_U_FWR_MANAGE'			=> 'Pode editar/excluir os comentários do seu mural',
 	'ACL_U_FWR_MENTION'			=> 'Pode mencionar usuários',
-	'ACL_U_FWR_PUBLISH'			=> 'Pode publicar comentários em sua parede',
+	'ACL_U_FWR_PUBLISH'			=> 'Pode postar comentários no seu mural',
 	
 	'ACL_M_FOLLOWER_MANAGE'		=> 'Pode editar/excluir comentários',
 ));

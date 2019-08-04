@@ -31,6 +31,6 @@ $lang = array_merge($lang, array(
 	'FW_NOTIFICATION_TYPE_MENTION'	=> 'Alguém mencionado em um comentário ou mensagem',
 	'FW_NOTIFICATION_TYPE_POST'		=> 'Alguém que você segue postar uma mensagem',
 	'FW_NOTIFICATION_TYPE_REPLY'	=> 'Alguém responde a um comentário no seu mural',
-	'FW_NOTIFICATION_TYPE_SHARE'	=> 'Alguém compartilhou um comentário em sua parede',
+	'FW_NOTIFICATION_TYPE_SHARE'	=> 'Alguém compartilhou um comentário no seu mural',
 	'FW_NOTIFICATION_TYPE_TOPIC'	=> 'Alguém que você segue postando um tópico',
 ));
